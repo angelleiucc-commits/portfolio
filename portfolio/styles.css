@@ -1,0 +1,62 @@
+/* RESET */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* BODY */
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to right, #1e3c72, #2a5298);
+  color: #333;
+}
+
+/* HEADER */
+header {
+  text-align: center;
+  padding: 40px 20px;
+  color: white;
+}
+
+header h1 {
+  font-size: 40px;
+}
+
+header p {
+  font-size: 18px;
+  margin-top: 10px;
+}
+
+/* CARD SECTIONS */
+.card {
+  background: white;
+  margin: 20px auto;
+  padding: 25px;
+  width: 80%;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+/* TITLES */
+.card h2 {
+  margin-bottom: 15px;
+  color: #2a5298;
+}
+
+/* LISTS */
+ul {
+  padding-left: 20px;
+}
+
+li {
+  margin-bottom: 8px;
+}
+
+/* FOOTER */
+footer {
+  text-align: center;
+  padding: 20px;
+  color: white;
+  margin-top: 20px;
+}
